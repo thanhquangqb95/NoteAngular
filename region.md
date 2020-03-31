@@ -1,6 +1,17 @@
--- Private Fields // Biến
--- Public Fields
--- Public Properties
--- Constructors
--- Public Methods
--- Private Methods
+#region --- Constructor and Destructor ---
+#endregion
+
+#region --- Enums, Structs, Constants ---
+#endregion
+
+#region --- Member Variables ---
+//Biến
+#endregion
+
+#region --- Properties ---
+#endregion
+
+#region --- Handles Events ---
+//Sự kiện
+#endregion
+
